@@ -1,0 +1,1 @@
+liapunov method automat control theori work m liapunov theori stabil discuss second method liapunov shown applic linear equat real constant coeffici proof routh hurwitz criterion linear equat period coeffici practic exampl includ non linear stabil problem control function us area control system 

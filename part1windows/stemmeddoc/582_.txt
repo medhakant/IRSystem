@@ -1,0 +1,1 @@
+melt finit slab approxim method known heat balanc integr us determin melt rate finit slab initi uniform temperatur melt point slab act upon constant heat input on face face either insul kept initi temperatur first three term seri solut intrins small paramet obtain time histori melt temperatur distribut slab 

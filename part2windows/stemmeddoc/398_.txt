@@ -1,0 +1,1 @@
+heat transfer turbul shear flow problem heat transfer turbul shear flow along smooth wall discuss point view von karman well known 1939 paper analog fluid friction heat transfer method extend analysi higher prandtl number suggest 

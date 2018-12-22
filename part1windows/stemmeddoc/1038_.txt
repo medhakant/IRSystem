@@ -1,0 +1,1 @@
+transvers vibrat thin shallow elast shell deform complet stress distribut determin follow edg load thin shell 1 right circular cylind 2 frustum right circular cone 3 portion sphere locat maximum circumferenti meridion stress also found equat develop discontinu shear moment follow junction circular cylind 2 axial chang thick cone 3 chang thick portion sphere cylind portion sphere 
